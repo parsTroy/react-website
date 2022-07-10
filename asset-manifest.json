@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.36eed10e.css",
-    "main.js": "/static/js/main.e38a71e3.js",
+    "main.js": "/static/js/main.db22e996.js",
     "static/media/stock-app.png": "/static/media/stock-app.45b26333dec533c33dcc.png",
     "static/media/jsgame.png": "/static/media/jsgame.74ac483c9b379d664e32.png",
     "static/media/dividend.png": "/static/media/dividend.fd0834d3935b8af068ea.png",
@@ -17,10 +17,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.36eed10e.css.map": "/static/css/main.36eed10e.css.map",
-    "main.e38a71e3.js.map": "/static/js/main.e38a71e3.js.map"
+    "main.db22e996.js.map": "/static/js/main.db22e996.js.map"
   },
   "entrypoints": [
     "static/css/main.36eed10e.css",
-    "static/js/main.e38a71e3.js"
+    "static/js/main.db22e996.js"
   ]
 }
