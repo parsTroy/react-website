@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.36eed10e.css",
-    "main.js": "/static/js/main.db22e996.js",
+    "main.js": "/static/js/main.7a6d1483.js",
     "static/media/stock-app.png": "/static/media/stock-app.45b26333dec533c33dcc.png",
+    "static/media/golf-tracker-app.png": "/static/media/golf-tracker-app.7b748fdb21b273f4c2f3.png",
     "static/media/jsgame.png": "/static/media/jsgame.74ac483c9b379d664e32.png",
     "static/media/dividend.png": "/static/media/dividend.fd0834d3935b8af068ea.png",
     "static/media/todo.png": "/static/media/todo.6c013fea1c4c5377153b.png",
     "static/media/ecommerce.png": "/static/media/ecommerce.3c06f6c0bf248c11f66d.png",
     "static/media/logo-1.png": "/static/media/logo-1.86b823641dd0059ca030.png",
-    "static/media/spotifyeg.png": "/static/media/spotifyeg.4b517e777649c45998df.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
@@ -17,10 +17,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.36eed10e.css.map": "/static/css/main.36eed10e.css.map",
-    "main.db22e996.js.map": "/static/js/main.db22e996.js.map"
+    "main.7a6d1483.js.map": "/static/js/main.7a6d1483.js.map"
   },
   "entrypoints": [
     "static/css/main.36eed10e.css",
-    "static/js/main.db22e996.js"
+    "static/js/main.7a6d1483.js"
   ]
 }
