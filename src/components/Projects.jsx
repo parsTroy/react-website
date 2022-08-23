@@ -3,7 +3,7 @@ import DividendEg from '../assets/dividend.png'
 import EcommerceEg from '../assets/ecommerce.png'
 import JSGameEg from '../assets/jsgame.png'
 import stockAppEg from '../assets/stock-app.png'
-import SpotifyEg from '../assets/spotifyeg.png'
+import golfTrackerApp from '../assets/golf-tracker-app.png'
 import ToDoEg from '../assets/todo.png'
 
 const Projects = () => {
@@ -81,19 +81,19 @@ const Projects = () => {
                     </div>
                 </div>
                 <div 
-                style={{backgroundImage: `url(${SpotifyEg})`}}
+                style={{backgroundImage: `url(${golfTrackerApp})`}}
                 className='shadow-lg shadow-[#040c16] group containor rounded-md flex justify-center items-center mx-auto content-div'>
                     
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-[#caccc1] tracking-wider'>
-                            Retro Spotify Clone
+                            Golf Score Tracker
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='https://parstroy.github.io/responsive-golf-tracker/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/parsTroy/responsive-golf-tracker'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Code</button>
                             </a>
 
