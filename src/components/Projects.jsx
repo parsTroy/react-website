@@ -1,7 +1,7 @@
 import React from 'react';
-import DividendEg from '../assets/dividend.png'
+import DividendEg from '../assets/dividendPortfolioTracker'
 import EcommerceEg from '../assets/ecommerce.png'
-import JSGameEg from '../assets/jsgame.png'
+import JSGameEg from '../assets/typingGame.png'
 import stockAppEg from '../assets/stock-app.png'
 import golfTrackerApp from '../assets/golf-tracker-app.png'
 import ToDoEg from '../assets/todo.png'
@@ -29,10 +29,10 @@ const Projects = () => {
                             Dividend Tracker
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='https://parstroy.github.io/dividend-tracker/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/parsTroy/dividend-tracker/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Code</button>
                             </a>
 
@@ -131,10 +131,10 @@ const Projects = () => {
                             React To-Do App
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='https://parstroy.github.io/firebase-react-todo-app/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/parsTroy/firebase-react-todo-app'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Code</button>
                             </a>
 
