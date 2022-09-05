@@ -1,6 +1,6 @@
 import React from 'react';
 import DividendEg from '../assets/dividendPortfolioTracker'
-import EcommerceEg from '../assets/ecommerce.png'
+import CryptoEg from '../assets/crypto.png'
 import JSGameEg from '../assets/typingGame.png'
 import stockAppEg from '../assets/stock-app.png'
 import golfTrackerApp from '../assets/golf-tracker-app.png'
@@ -46,13 +46,13 @@ const Projects = () => {
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-[#caccc1] tracking-wider'>
-                            JavaScript Game
+                            Typing Game
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='https://parstroy.github.io/js-typer/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/parsTroy/js-typer'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Code</button>
                             </a>
 
@@ -61,19 +61,19 @@ const Projects = () => {
                 </div>
                            {/* Grid Item */}    
                            <div 
-                style={{backgroundImage: `url(${EcommerceEg})`}}
+                style={{backgroundImage: `url(${CryptoEg})`}}
                 className='shadow-lg shadow-[#040c16] group containor rounded-md flex justify-center items-center mx-auto content-div'>
                     
                     {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-[#caccc1] tracking-wider'>
-                            E-Commerce Store
+                            Crypto Tracker
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='https://react-cryptobase.web.app/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='/'>
+                            <a href='https://github.com/parsTroy/react-crypto-watchlist-app'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Code</button>
                             </a>
 
