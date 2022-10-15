@@ -29,10 +29,10 @@ const Projects = () => {
                             Dividend Tracker
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='https://parstroy.github.io/dividend-tracker/'>
+                            <a href='https://parstroy.github.io/react-stock-portfolio'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://github.com/parsTroy/dividend-tracker/'>
+                            <a href='https://github.com/parsTroy/react-stock-portfolio'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Code</button>
                             </a>
 
