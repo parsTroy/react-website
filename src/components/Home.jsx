@@ -15,14 +15,14 @@ const Home = () => {
                 Focused on growing my portfolio through working on meaningful projects, with purpose.
             </p>
             <div>
-                <button className='text-[#caccc1] hover:text-[#1b3338] group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#bf874c] hover:border-[#bf874c]'>
-                    <Link to="projects" smooth={true} duration={500} className='hover:text-[#E8D9CA]'>
-                        View Projects
-                    </Link>
-                <span className='group-hover:rotate-90 duration-300'>
-                    <HiArrowNarrowRight className='ml-3' />
-                </span>
-                </button>
+                <Link to="projects" smooth={true} duration={500} className='hover:text-[#E8D9CA]'>
+                    <button className='text-[#caccc1] hover:text-[#1b3338] group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#bf874c] hover:border-[#bf874c]'>
+                            View Projects
+                    <span className='group-hover:rotate-90 duration-300'>
+                        <HiArrowNarrowRight className='ml-3' />
+                    </span>
+                    </button>
+                </Link>
             </div>
         </div>
 
