@@ -1,11 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@200;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;500;700;900&family=Merriweather:wght@400;700;900&display=swap');
 
 @layer base {
     body {
-        @apply font-[Kantumruy+Pro]
+        @apply font-[inconsolata]
     }
     li {
         @apply px-4;
@@ -24,7 +24,7 @@
 .content-div:hover {
     background-image: linear-gradient(
         to right,
-        rgba(27, 51, 56, 0.8),
-        rgba(202, 204, 193, 0.8)
+        rgba(58, 78, 72, 0.8),
+        rgba(190, 176, 167, 0.8)
     )!important;
 }
