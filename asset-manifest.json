@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.16b92b55.css",
-    "main.js": "/static/js/main.d357f5dd.js",
+    "main.js": "/static/js/main.1099c675.js",
     "static/media/todo.png": "/static/media/todo.3504a324356087327cec.png",
-    "static/media/typingGame.png": "/static/media/typingGame.8f055fc6c36c2a4e8794.png",
-    "static/media/stock-app.png": "/static/media/stock-app.27151e43edb00bc1f6b0.png",
-    "static/media/golf-tracker-app.png": "/static/media/golf-tracker-app.cbf408d2503b8cc48876.png",
-    "static/media/dividendPortfolioTracker": "/static/media/dividendPortfolioTracker.0420c7c67990c6a478e2",
+    "static/media/stock-app.png": "/static/media/stock-app.5e96fb19d90ad9ec7090.png",
+    "static/media/golf-tracker-app.png": "/static/media/golf-tracker-app.cf6d94c8b546d0ba0a05.png",
+    "static/media/network.png": "/static/media/network.a112e40909e1579357e8.png",
+    "static/media/crypto.png": "/static/media/crypto.96be50270b6e1adf9f95.png",
     "static/media/logo-1.png": "/static/media/logo-1.86b823641dd0059ca030.png",
-    "static/media/crypto.png": "/static/media/crypto.999f194d1f56b69a3e06.png",
+    "static/media/typingGame.png": "/static/media/typingGame.f041445c3d9ecc9680f1.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
@@ -17,10 +17,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.16b92b55.css.map": "/static/css/main.16b92b55.css.map",
-    "main.d357f5dd.js.map": "/static/js/main.d357f5dd.js.map"
+    "main.1099c675.js.map": "/static/js/main.1099c675.js.map"
   },
   "entrypoints": [
     "static/css/main.16b92b55.css",
-    "static/js/main.d357f5dd.js"
+    "static/js/main.1099c675.js"
   ]
 }
