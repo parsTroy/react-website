@@ -80,11 +80,11 @@ const Projects = () => {
                             </div>
                         </div>
                     </div>
-                    <div
+                    {/* <div
                         style={{ backgroundImage: `url(${golfTrackerApp})` }}
                         className='shadow-lg shadow-[#040c16] group containor rounded-md flex justify-center items-center mx-auto content-div'>
 
-                        {/* Hover Effects */}
+                        // Hover Effects
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-[#caccc1] tracking-wider'>
                                 Golf Score Tracker
@@ -100,12 +100,12 @@ const Projects = () => {
                             </div>
                         </div>
                     </div>
-                    {/* Grid Item */}
+                    Grid Item
                     <div
                         style={{ backgroundImage: `url(${stockAppEg})` }}
                         className='shadow-lg shadow-[#040c16] group containor rounded-md flex justify-center items-center mx-auto content-div'>
 
-                        {/* Hover Effects */}
+                        // Hover Effects
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-[#caccc1] tracking-wider'>
                                 Stock Tracker
@@ -125,7 +125,7 @@ const Projects = () => {
                         style={{ backgroundImage: `url(${ToDoEg})` }}
                         className='shadow-lg shadow-[#040c16] group containor rounded-md flex justify-center items-center mx-auto content-div'>
 
-                        {/* Hover Effects */}
+                        // Hover Effects
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-[#caccc1] tracking-wider'>
                                 React To-Do App
@@ -140,14 +140,11 @@ const Projects = () => {
 
                             </div>
                         </div>
-                    </div>
-
-
-
+                    </div> */}
 
                 </div>
             </div>
-        </div>
+        </div >
     )
 }
 
