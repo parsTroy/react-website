@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ec08345e.css",
-    "main.js": "/static/js/main.61fd49a7.js",
+    "main.js": "/static/js/main.1806d1c4.js",
     "static/media/todo.png": "/static/media/todo.3504a324356087327cec.png",
     "static/media/stock-app.png": "/static/media/stock-app.5e96fb19d90ad9ec7090.png",
     "static/media/golf-tracker-app.png": "/static/media/golf-tracker-app.cf6d94c8b546d0ba0a05.png",
@@ -19,10 +19,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.ec08345e.css.map": "/static/css/main.ec08345e.css.map",
-    "main.61fd49a7.js.map": "/static/js/main.61fd49a7.js.map"
+    "main.1806d1c4.js.map": "/static/js/main.1806d1c4.js.map"
   },
   "entrypoints": [
     "static/css/main.ec08345e.css",
-    "static/js/main.61fd49a7.js"
+    "static/js/main.1806d1c4.js"
   ]
 }
