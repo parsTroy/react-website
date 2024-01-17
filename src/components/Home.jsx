@@ -12,7 +12,7 @@ const Home = () => {
                 <h1 className='text-4xl sm:text-7xl font-bold text-[#FEF9F3]'>Troy Parsons</h1>
                 <h2 className='text-4xl sm:text-7xl font-bold text-[#E8D9CA]'>I'm a Software Developer.</h2>
                 <p className='text-[#E8D9CA] py-4 max-w-[700px]'>
-                    Focused on growing my portfolio through working on meaningful projects, with purpose.
+                    Where Innovation Meets Implementation: Code with Purpose.
                 </p>
                 <Link to="projects" smooth={true} duration={500} className='hover:text-[#E8D9CA]'>
                     <div>

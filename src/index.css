@@ -7,10 +7,37 @@
     body {
         @apply font-[Kantumruy+Pro]
     }
+
     li {
         @apply px-4;
         @apply cursor-pointer;
     }
+}
+
+html::-webkit-scrollbar {
+    width: 0.75rem;
+}
+
+html::-webkit-scrollbar-thumb {
+    background-color: #bf874c;
+    border-radius: 100vw;
+}
+
+html::-webkit-scrollbar-thumb:hover {
+    background-color: #151a1d;
+}
+
+html::-webkit-scrollbar-track {
+    background-color: #151a1d;
+}
+
+html::-webkit-scrollbar-track:hover {
+    background-color: #151a1d;
+}
+
+html {
+    scrollbar-width: normal;
+    scrollbar-color: #bf874c #151a1d;
 }
 
 .content-div {
@@ -22,9 +49,7 @@
 }
 
 .content-div:hover {
-    background-image: linear-gradient(
-        to right,
-        rgba(27, 51, 56, 0.8),
-        rgba(202, 204, 193, 0.8)
-    )!important;
+    background-image: linear-gradient(to right,
+            rgba(27, 51, 56, 0.8),
+            rgba(202, 204, 193, 0.8)) !important;
 }
