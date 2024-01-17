@@ -2,9 +2,9 @@ import React from 'react';
 import DividendEg from '../assets/network.png'
 import CryptoEg from '../assets/crypto.png'
 import JSGameEg from '../assets/typingGame.png'
-import stockAppEg from '../assets/stock-app.png'
-import golfTrackerApp from '../assets/golf-tracker-app.png'
-import ToDoEg from '../assets/todo.png'
+// import stockAppEg from '../assets/stock-app.png'
+// import golfTrackerApp from '../assets/golf-tracker-app.png'
+// import ToDoEg from '../assets/todo.png'
 
 const Projects = () => {
     return (
