@@ -1,7 +1,8 @@
 import React from 'react';
 import DividendEg from '../assets/network.png'
 import CryptoEg from '../assets/crypto.png'
-import JSGameEg from '../assets/typingGame.png'
+import RustFinanceCalc from '../assets/rust.png'
+// import JSGameEg from '../assets/typingGame.png'
 // import stockAppEg from '../assets/stock-app.png'
 // import golfTrackerApp from '../assets/golf-tracker-app.png'
 // import ToDoEg from '../assets/todo.png'
@@ -40,19 +41,19 @@ const Projects = () => {
                         </div>
                     </div>
                     <div
-                        style={{ backgroundImage: `url(${JSGameEg})` }}
+                        style={{ backgroundImage: `url(${RustFinanceCalc})` }}
                         className='shadow-lg shadow-[#040c16] group containor rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-[#caccc1] tracking-wider'>
-                                Typing Game
+                                Rust Budget Calculator
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href='https://parstroy.github.io/js-typer/'>
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Demo</button>
+                                <a href='https://github.com/parsTroy/rust-finance'>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Clone</button>
                                 </a>
-                                <a href='https://github.com/parsTroy/js-typer'>
+                                <a href='https://github.com/parsTroy/rust-finance'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#caccc1] text-[#1b3338] font-bold text-lg'>Code</button>
                                 </a>
 
