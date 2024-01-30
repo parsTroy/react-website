@@ -6,7 +6,7 @@ const Home = () => {
     return (
         <div name='home' className='w-full h-screen bg-[#151a1d]'>
 
-            {/* Containor */}
+            {/* Container */}
             <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
                 <p className='text-[#bf874c]'>Hi, my name is</p>
                 <h1 className='text-4xl sm:text-7xl font-bold text-[#FEF9F3]'>Troy Parsons</h1>
